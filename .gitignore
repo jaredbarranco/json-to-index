@@ -1,0 +1,5 @@
+files_in/*.json
+*.sql
+node_modules
+.env
+index.js
